@@ -1,2 +1,7 @@
 # pagescroller
-Smooth scrolling jQuery plugin
+smooth scrolling jQuery plugin
+
+## Overview
+## Getting Started
+## Installation
+## Requirements
